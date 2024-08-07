@@ -22,6 +22,8 @@
 ![](https://github-contributor-stats.vercel.app/api?username=GowthamiShetty&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=GowthamiShetty&icon=4&color=6)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=GowthamiShetty&label=Profile%20Views&color=11&icon=6&pretty=true" />
+</a>
 
 
