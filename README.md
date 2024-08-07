@@ -20,8 +20,9 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=GowthamiShetty &limit=5&theme=dark&combine_all_yearly_contributions=true)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=GowthamiShetty&label=Profile%20Views&color=11&icon=6&pretty=false" />
+</a>
 
----
-[![](https://visitcount.itsvg.in/api?id=GowthamiShetty &icon=9&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
