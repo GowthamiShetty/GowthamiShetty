@@ -1,5 +1,5 @@
 # 💫 About Me:
- 🔭 I’m currently working on frontend and very interested in Full stack development doing my third year in engineering in SIT, Mangalore<br>👯 I’m looking to collaborate with people who have similar interests<br>🤝 I’m looking for help with React, Django, JavaScript<br>🌱 I’m currently learning React, Django, JavaScript<br>⚡ Fun fact It's fun working when profession and passion align. I'm currently experiencing that joy!<br>🎨 Hobbies :-Coding , Reading tech blogs,Playing outdoor games
+ 🔭 I’m Gowthami interested in Full stack development doing my third year in CS&E  in SIT, Mangalore<br>👯 I’m looking to collaborate with people who have similar interests<br>🤝 I’m looking for help with React, Django, JavaScript<br>🌱 I’m currently learning React, Django, JavaScript<br>⚡ Fun fact It's fun working when profession and passion align. I'm currently experiencing that joy!<br>🎨 Hobbies :-Coding , Reading tech blogs,Playing outdoor games
 
 
 ## 🌐 Socials:
